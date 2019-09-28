@@ -1,0 +1,7 @@
+body {
+  background-color: #d2fafb; < !-- hex value needs # sign -->
+}
+
+hr {
+  border-style: dotted;
+}
