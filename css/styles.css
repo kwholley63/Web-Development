@@ -1,3 +1,4 @@
+/**** Tag Selectors ****/
 body {
   background-color: #f8f8f8;
 }
@@ -5,9 +6,33 @@ body {
 h1{
   color: #6c7b95;
 }
+
 h3{
-  color: #d35656;
+  color: black;
 }
 hr {
   border-style: dotted;
+}
+
+img:hover{
+  background-color: gold
+}
+/**** Class Selectors ***/
+
+/* css comments are /* */
+.animals {
+
+  background-color: black;
+}
+
+.sports {
+
+  background-color: pink;
+
+}
+
+/**** ID Selectors ***/
+
+#headings {
+  color: blue
 }
