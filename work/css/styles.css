@@ -1,10 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
 .top {
   margin: 0px;
   padding: 2px;
   border-spacing: 1px;
-  background-color: #e4f2f0;
   background-color: white;
   position: relative;
   padding-top: 1px;
 }
- 
+.middle{
+  font-size: 100%;
+}
+
+nav a {
+ display: inline-block;
+ padding: 5px;
+ background: white;
+}
+.left {
+  width: 20%;
+  margin: 20px;
+}
+
+.table td{
+   border: 1px solid black;
+
+ }
+ #FED th {
+   border: 1px solid black;
+   background-color: blue;
+ }
+ .table td{
+    border: 1px solid black;
+
+  }
+  #FEN th {
+    border: 1px solid black;
+    background-color: green;
+  }
+  #BED th {
+    border: 1px solid black;
+    background-color: red;
+  }
+  .table td{
+     border: 1px solid black;
+
+   }
+   #BEN th {
+     border: 1px solid black;
+     background-color: yellow;
+   }
